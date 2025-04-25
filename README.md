@@ -17,6 +17,7 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
 ![](https://github-profile-trophy.vercel.app/?username=hcamposxx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
  -->
+ <!--
 
 <h2 align="left">Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<br>My dream is to work remotely for international companies.<br>I’m a naturally curious person, and I´m really into snowboard, djing, music production, and prehistoric life (yup, I’m a dino nerd).<br>Besides software engineering, I enjoy building apps, experimenting with data mining, and occasionally diving into cybersecurity.<br>However, my true passion is game development. I’m especially drawn to open world games and have tons of creative ideas for entertaining experiences.<br>If you're here to check out my work, collaborate, or just say hi, welcome! Now you’ve got a little glimpse of who I am c:</h2>
 
@@ -30,9 +31,17 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXplaW5uMjYwcXFpdDMyaTczbjJ3a29wdHh5ZWllb3V4dTh0Y29kZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFzLKlmlmRYXJ0wCJq/giphy.gif"  />
+ -->
 
 ###
+# 💫 About Me:
+Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<br>My dream is to work remotely for international companies.<br>I’m a naturally curious person, and I´m really into snowboard, djing,  music production, and prehistoric life (yup, I’m a dino nerd).<br>Besides software engineering, I enjoy building apps, experimenting with data mining, and occasionally diving into cybersecurity.<br>However, my true passion is game development. I’m especially drawn to open world games and have tons of creative ideas for entertaining experiences.<br>If you're here to check out my work, collaborate, or just say hi, welcome! Now you’ve got a little glimpse of who I am c:
 
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/Ste.Jagal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hecc._.x) 
+
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -134,6 +143,7 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
 </div>
 
 ###
+ <!--
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -143,6 +153,7 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+-->
 
 ###
 
@@ -152,7 +163,7 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
   <img alt="github-snake" src="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake.svg" />
 </picture>
 
-###
+#  What I´m listening to:
 
 <div align="center">
   <a href="https://open.spotify.com/user/22kd2jwi3nr6bzt2gsmcvpe4q">
