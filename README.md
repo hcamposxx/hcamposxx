@@ -37,6 +37,15 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
 # 💫 About Me:
 Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<br>My dream is to work remotely for international companies.<br>I’m a naturally curious person, and I´m really into snowboard, djing,  music production, and prehistoric life (yup, I’m a dino nerd).<br>Besides software engineering, I enjoy building apps, experimenting with data mining, and occasionally diving into cybersecurity.<br>However, my true passion is game development. I’m especially drawn to open world games and have tons of creative ideas for entertaining experiences.<br>If you're here to check out my work, collaborate, or just say hi, welcome! Now you’ve got a little glimpse of who I am c:
 
+###
+## 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake.svg" />
+</picture>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/Ste.Jagal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hecc._.x) 
@@ -155,13 +164,6 @@ Hi, I’m Héctor, an IT student from Chile, the land at the end of the world.<b
 </div>
 -->
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hcamposxx/hcamposxx/output/github-snake.svg" />
-</picture>
 
 #  What I´m listening to:
 
